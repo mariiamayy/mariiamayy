@@ -18,4 +18,6 @@ I'm a Data Analyst with expertise in Excel, SQL, Python, and BI tools, combining
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-📫 Let's connect: <a href="https://www.linkedin.com/in/mariam-ahmed-1a3547215/" target="_blank">LinkedIn</a>
+📫 Let's connect:
+- [LinkedIn](https://www.linkedin.com/in/mariam-ahmed-1a3547215/)
+- [Portfolio](https://mariiamayy.github.io/Portfolio/)
