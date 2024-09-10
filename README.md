@@ -1,11 +1,10 @@
 ## Hi there 👋
 My Name is Mariam 😄⚡
 
-I'm a Data Analyst with expertise in Excel, SQL, Python, and BI tools. Combining my analytical skills with a medical background, 
-I translate complex data into actionable insights across diverse fields.
+I'm a Data Analyst with expertise in Excel, SQL, Python, and BI tools, combining my analytical skills with a medical background.
 
 
-🔍 What I Do
+## 🔍 What I Do
 Data Analysis & Visualization: Turning data into stories with Python and BI tools.
 Database Management: Skilled in SQL for data querying and optimization.
 Business Intelligence: Building interactive dashboards and reports to drive decisions.
