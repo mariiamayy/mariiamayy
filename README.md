@@ -5,11 +5,11 @@ I'm a Data Analyst with expertise in Excel, SQL, Python, and BI tools, combining
 
 
 ## 🔍 What I Do
-Data Analysis & Visualization: Turning data into stories with Python and BI tools.
-Database Management: Skilled in SQL for data querying and optimization.
-Business Intelligence: Building interactive dashboards and reports to drive decisions.
-Healthcare and Beyond: Leveraging my medical background to bring a unique perspective to data projects in healthcare and other industries.
-And constantly exploring new tools, techniques, and approaches to leverage data for meaningful insights.
+- Data Analysis & Visualization: Turning data into stories with Python and BI tools.
+- Database Management: Skilled in SQL for data querying and optimization.
+- Business Intelligence: Building interactive dashboards and reports to drive decisions.
+- Healthcare and Beyond: Leveraging my medical background to bring a unique perspective to data projects in healthcare and other industries.
+- And constantly exploring new tools, techniques, and approaches to leverage data for meaningful insights.
 
 ### 🛠️ Skills
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
