@@ -19,5 +19,5 @@ I'm a Data Analyst with expertise in Excel, SQL, Python, and BI tools, combining
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 📫 Let's connect:
-- [LinkedIn](https://www.linkedin.com/in/mariam-ahmed-1a3547215/)
-- [Portfolio](https://mariiamayy.github.io/Portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/mariam-ayman-1a3547215/)
+
