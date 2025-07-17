@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 My Name is Mariam 😄⚡
 
 I'm a Data Analyst with expertise in Excel, SQL, Python, and BI tools, combining my analytical skills with a medical background.
