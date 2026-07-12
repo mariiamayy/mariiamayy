@@ -1,5 +1,5 @@
 # 👋 Hi there!
-I'm Mariam Ayman — a passionate Data Analyst with expertise in Excel, SQL, Python, and BI tools, blending technical skills with a solid medical background.
+I'm Mariam Ayman, a passionate Data Analyst with expertise in Excel, SQL, Python, and BI tools, blending technical skills with a solid medical background.
 
 
 ## 🔍 What I Do
